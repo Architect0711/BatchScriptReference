@@ -13,3 +13,7 @@ Get the current Date and Time from WMIC and create a formatted String from it to
 # PythonRelativePath.cmd
 
 Call a Python Script from a Path relative to the Batch Script using a Python Executable from a Path relative to the Batch Script.
+
+# SqlBackupDatabase.cmd
+
+Create a Backup from an Sql Server Database

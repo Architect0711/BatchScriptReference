@@ -8,6 +8,10 @@ A Home for Snippets of all the Batch Scripts I made over Time.
 
 # Table of Contents
 
+## AdminCheck.cmd
+
+Script that checks if it was started with Admin Privileges.
+
 ## Arguments.cmd
 
 Pass Arguments to the Batch Script and save them in Variables.

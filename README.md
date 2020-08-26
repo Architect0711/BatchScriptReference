@@ -33,3 +33,7 @@ Restore an Sql Server Database from a Backup File.
 ## WindowsBackupHarddrive.cmd
 
 Create a Backup of a Drive on your Windows Computer.
+
+## WindowsEventLogsExport.cmd
+
+Export the Windows Event Logs from a specified Timeframe.

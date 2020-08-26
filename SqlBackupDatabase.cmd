@@ -21,7 +21,7 @@ REM ----------------------------------------------------------------------------
 
 REM The . points to the local Sql Server with the default Name
 REM Replace the . with an IP or Hostname to point to the remote Sql Server with the default Name (e.g. 192.168.0.123)
-REM Replace the . with a Database Name to point to the local Sql Server with that Name (e.g. MySqlServerInstance)
+REM Append a Database Name to the . to point to the local Sql Server with that Name (e.g. .\MySqlServerInstance)
 REM Replace the . with Hostname\Database or IP\Database to point to the remote Sql Server with that Name (e.g. 192.168.0.123\MySqlServerInstance)
 REM -E (use trusted connection)
 REM -S [protocol:]server[instance_name][,port]

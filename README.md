@@ -18,6 +18,10 @@ Call a Python Script from a Path relative to the Batch Script using a Python Exe
 
 Create a Backup of an Sql Server Database.
 
+## SqlRestoreDatabase.cmd
+
+Restore an Sql Server Database from a Backup File.
+
 ## WindowsBackupHarddrive.cmd
 
-Create a Backup of a Drive on your Windows Computer
+Create a Backup of a Drive on your Windows Computer.

@@ -6,6 +6,10 @@ A Home for Snippets of all the Batch Scripts I made over Time.
 
 Pass Arguments to the Batch Script and save them in Variables.
 
+## FOR_LOOP.cmd
+
+Single and Multi Line FOR LOOP Snippets and a List Declaration.
+
 ## IF_ELSE.cmd
 
 Single and Multi Line IF ELSE Snippets and GOTO calls.

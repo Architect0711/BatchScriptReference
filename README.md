@@ -2,6 +2,12 @@
 
 A Home for Snippets of all the Batch Scripts I made over Time. 
 
+# Useful Links
+
+- https://ss64.com/nt/
+
+# Table of Contents
+
 ## Arguments.cmd
 
 Pass Arguments to the Batch Script and save them in Variables.

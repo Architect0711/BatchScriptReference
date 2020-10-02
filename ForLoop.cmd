@@ -10,7 +10,7 @@ REM ----------------------------------------------------------------------------
 REM FOR LOOP - SINGLE LINE
 REM -----------------------------------------------------------------------------------
 REM Print all File Names in the current Directory
-FOR %%i IN (%LOCAL_PATH%\*) DO ECHO %%i 
+FOR %%i IN (%LOCAL_PATH%*) DO ECHO %%i 
 
 REM -----------------------------------------------------------------------------------
 REM FOR LOOP - MULTILINE

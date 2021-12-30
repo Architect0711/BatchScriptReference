@@ -1,6 +1,11 @@
 ECHO OFF
 
 REM -----------------------------------------------------------------------------------
+REM IMPORTANT
+REM -----------------------------------------------------------------------------------
+REM DO NOT NAME THIS SCRIPT "XCOPY.CMD", OR IT WILL END UP CALLING ITSELF IN AN INFINITE LOOP
+
+REM -----------------------------------------------------------------------------------
 REM Documentation
 REM -----------------------------------------------------------------------------------
 REM XCopy Command: https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/xcopy
